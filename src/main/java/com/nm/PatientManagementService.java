@@ -4,7 +4,7 @@ package com.nm;
  * Hello world!
  *
  */
-public class App 
+public class PatientManagementService
 {
     public static void main( String[] args )
     {
